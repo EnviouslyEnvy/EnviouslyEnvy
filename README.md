@@ -3,7 +3,7 @@
 ```js
 const me = {
   code: ["Java", "JavaScript", "Python", "TypeScript", "Julia", "SQL", "Bash"],
-  askMeAbout: ["Software Engineering", "Backend Web Development", "Data Analysis", "Systems Design", "Audio Gear", "Rhythm Games"],
+  askMeAbout: ["Software Engineering", "Backend Web Development", "Data Processing", "Systems Design", "FFTs", "Audio Gear"],
   technologies: {
     backEnd: {
       java: ["Spring Boot"],
